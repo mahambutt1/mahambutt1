@@ -1,6 +1,7 @@
 # Explore the Jungle 
 
-Explore the jungle is an example of a Python text-based adventure game.
+Explore the jungle is an example of a Python text-based adventure game, where players embark on exciting journey through a 
+jungle. You will make decions, explore various locations, solve puzzles and enounter challenges and make choices that impact the story.
 
 ## Installation
 
@@ -19,3 +20,4 @@ Please make sure to update tests as necessary.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+  
